@@ -6,7 +6,7 @@
         "description": "La quartzite est une roche métamorphique issue de la transformation du grès sous l’effet de la chaleur et de la pression. Elle est principalement composée de cristaux de quartz, ce qui lui confère une grande dureté et une excellente résistance à l'usure. Son aspect varie du blanc au gris, parfois avec des nuances de rouge, de rose ou d'orange, en fonction des impuretés présentes dans la roche initiale.",
         "decouverte": {
           "lieu": "Saint-Jean-de-Matha, Québec",
-          "date": "à compléter",
+          "date": "20 avril 2025",
           "anecdote": "En me garant devant chez moi à Saint-Jean-de-Matha, j’ai remarqué une pierre aux reflets pâles, presque nacrés. Curieux, je l’ai ramassée pour l’examiner de plus près. Sa dureté et son éclat me font penser à de la quartzite. C’est fascinant de penser qu’un morceau d’histoire géologique pouvait se trouver juste là, sous mes pieds !",
           "observations": {
             "couleur": "Blanc-gris avec quelques nuances rosées",
@@ -19,11 +19,11 @@
       },
       {
         "nom": "Schiste argileux ferrugineux",
-        "image": "https://via.placeholder.com/400x200.png?text=Schiste+ferrugineux",
+        "image": "images/Shiste1.jpg",
         "description": "Le schiste argileux ferrugineux est une roche sédimentaire fine, composée principalement d'argile et de minéraux riches en fer, ce qui lui donne une teinte brun-rouille caractéristique. Cette roche se forme dans des environnements calmes comme les fonds marins ou lacustres, où les sédiments s'accumulent lentement. Sous pression, ces couches fines se compactent et donnent naissance au schiste. Elle se distingue par sa capacité à se fendre en fines plaques.",
         "decouverte": {
           "lieu": "Rivière Noire, Lanaudière",
-          "date": "à compléter",
+          "date": "22 avril 2025",
           "anecdote": "En marchant le long de la Rivière Noire, j'ai remarqué une roche plate et brunâtre à moitié enfouie dans la berge. Elle s’est fendue proprement quand je l’ai touchée, révélant des couches fines et une teinte rouille. J’ai tout de suite pensé à un schiste ferrugineux !",
           "observations": {
             "couleur": "Brun-rouille avec des reflets métalliques",
