@@ -33,6 +33,24 @@
           },
           "remarques": "Sa couleur indique une forte présence de fer. Très typique des dépôts marins anciens du Québec central."
         }
+      },
+      {
+        "nom": "Granite trouvé sur terrain aménagé",
+        "image": "images/granite1.jpg",
+        "description": "Le granite est une roche magmatique très répandue, composée principalement de quartz, feldspath et mica. Sa dureté et sa résistance en font un matériau prisé autant par la nature que par les humains pour la construction. Cette roche, souvent blanche et noire, peut contenir de petits cristaux brillants. Elle témoigne d’une histoire géologique ancienne, souvent liée au Bouclier canadien.",
+        "decouverte": {
+          "lieu": "Saint-Jean-de-Matha, Québec",
+          "date": "24 avril 2025",
+          "anecdote": "En me promenant sur un chemin à Saint-Jean-de-Matha, j’ai repéré une petite roche blanche et noire près d’un terrain où le propriétaire avait utilisé de grosses pierres pour aménager l’environnement. Elle ne se laisse pas rayer par l’ongle de mon pouce, et elle scintille légèrement à la lumière. J’ai appris que c’était du granite. C’est fou de penser que cette pierre faisait peut-être partie d’un gros bloc transporté ou ramassé localement !",
+          "observations": {
+            "couleur": "Blanche et noire",
+            "texture": "Très dure, compacte",
+            "brillance": "Scintille légèrement",
+            "poids": "Petite mais dense"
+          },
+          "remarques": "Elle semble provenir d’une grosse pierre utilisée pour l’aménagement du terrain. Il est possible que ce granite soit local, ramassé dans les environs, ou déplacé par l’humain ou les glaciers. Une belle trouvaille pleine d’histoire !"
+        }
       }
+      
     ]
 }
