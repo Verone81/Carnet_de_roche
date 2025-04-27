@@ -50,6 +50,23 @@
           },
           "remarques": "Elle semble provenir d’une grosse pierre utilisée pour l’aménagement du terrain. Il est possible que ce granite soit local, ramassé dans les environs, ou déplacé par l’humain ou les glaciers. Une belle trouvaille pleine d’histoire !"
         }
+      },
+      {
+        "nom": "quartzite",
+        "image": "images/quartzite2.jpg",
+        "description": "Le quartzite est une roche métamorphique formée à partir du grès sous l'effet de fortes températures et pressions dans la croûte terrestre. Ce processus de recristallisation cimente les grains de sable du grès, rendant la roche plus dense et plus dure. Le quartzite est souvent de couleur blanche, grise, rouge ou rose, et sa texture granuleuse peut présenter des motifs variés. Très résistant à l'érosion, il est couramment utilisé dans la construction et comme pierre décorative, appréciée pour sa durabilité et ses teintes subtiles.",
+        "decouverte": {
+          "lieu": "Saint-Jean-de-Matha, Québec",
+          "date": "27 avril 2025",
+          "anecdote": "Un jour, après une pluie, j’ai trouvé une pierre qui m’a tout de suite attiré. Son aspect presque transparent, scintillant sous l’humidité, me faisait penser à un quartz fumé. J’ai imaginé qu’il pouvait s’agir d’une belle découverte. Mais après l’avoir laissée sécher, la vérité s’est révélée. Ce n’était pas un quartz fumé, mais une magnifique quartzite, marquée par les glaciers du nord, avec des stries noires visibles. Une découverte encore plus fascinante que ce à quoi je m’attendais !",
+          "observations": {
+            "couleur": "Blanche et grise",
+            "texture": "Très dure, compacte",
+            "brillance": "mat",
+            "poids": "grosse et dense"
+          },
+          "remarques": "Elle semblait vraiment à part dans le jardin de mon père, comme un morceau de verre fumé, blanc, luisant et lisse. Sa surface scintillait sous la pluie, presque irréelle, ce qui m’a fait penser immédiatement à du quartz fumé. Mais une fois séchée, j’ai découvert qu’il ne s’agissait pas de verre, mais d’une quartzite."
+        }
       }
       
     ]

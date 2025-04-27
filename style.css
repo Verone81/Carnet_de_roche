@@ -61,4 +61,21 @@ body {
     text-align: center;
     padding: 10px;
   }
+  .search-container {
+    margin-left: auto; /* pousse la barre complètement à droite dans le header */
+  }
+  
+  #search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    transition: width 0.4s ease-in-out;
+  }
+  
+  #search-input:focus {
+    width: 300px; /* s'élargit quand on clique dedans */
+    outline: none;
+  }
   
